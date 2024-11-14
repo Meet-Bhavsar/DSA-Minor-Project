@@ -26,16 +26,16 @@ The doubly linked list is central to the program:
 
 
 ## Example Usage
-Enter choice: 
-    1) Add Floor 
-    2) Go to a Floor
-1
-Enter the floor number you want to add: 5
-Do you want to continue (y/n)? y
+Enter choice: <br>
+    1) Add Floor <br>
+    2) Go to a Floor<br>
+1<br>
+Enter the floor number you want to add: 5<br>
+Do you want to continue (y/n)? y<br>
 
-Enter choice: 
-    1) Add Floor 
-    2) Go to a Floor
-2
-Enter the floor number you want to go to: 5
-Arrived at floor 5
+Enter choice: <br>
+    1) Add Floor <br>
+    2) Go to a Floor<br>
+2<br>
+Enter the floor number you want to go to: 5<br>
+Arrived at floor 5<br>
