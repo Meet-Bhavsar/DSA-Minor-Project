@@ -17,7 +17,4 @@ This project simulates an elevator system in a building. It uses a doubly linked
   - `addFloor(int f)`: Adds a floor to the building.
   - `goToFloor(int f)`: Moves the elevator to the specified floor.
 
-## How to Run
-1. **Compile** the code:
-   ```bash
-   g++ -o elevator elevator.cpp
+
